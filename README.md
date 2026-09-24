@@ -1,7 +1,7 @@
 #<h1 align="center">Hi 👋, I'm Kaustubh Phatale</h1>
 
 <h3 align="center">
-Staff Engineer | SDET Architect| Quality Engineering | Test Automation | AI & LLM Testing | n8n AI Automation
+Staff Engineer | SDET Architect | Quality Engineering | Test Automation | AI & LLM Testing | n8n AI Automation
 </h3>
 
 <p align="center">
