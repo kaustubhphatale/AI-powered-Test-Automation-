@@ -16,10 +16,6 @@ Staff Engineer | SDET Architect | Quality Engineering | Test Automation | AI & L
 Building scalable automation frameworks and intelligent quality engineering solutions using Playwright, TypeScript, Java, AI/LLM testing, and workflow automation.
 </p>
 
-<p align="left">
-<img src="https://komarev.com/ghpvc/?username=ankit19apr&label=Profile%20views&color=0e75b6&style=flat" alt="ankit19apr" />
-</p>
-
 ---
 
 ## 🔭 Currently Working On
