@@ -1,7 +1,7 @@
 #<h1 align="center">Hi 👋, I'm Kaustubh Phatale</h1>
 
 <h3 align="center">
-Staff Engineer | SDET Architect | Quality Engineering | Test Automation | AI & LLM Testing | n8n AI Automation
+Staff Engineer | Test Architect | Quality Engineering | Test Automation | AI & LLM Testing | n8n AI Automation
 </h3>
 
 <p align="center">
@@ -20,7 +20,7 @@ Building scalable automation frameworks and intelligent quality engineering solu
 
 ## 🔭 Currently Working On
 
-### 🤖 Q-Gate AI — AI-Powered Quality Engineering & Release Intelligence
+### 🤖  AI-Powered Quality Engineering & Release Intelligence
 
 Building an **AI-powered Quality Engineering and Release Intelligence platform using Playwright + TypeScript**.
 
