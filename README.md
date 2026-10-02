@@ -85,7 +85,7 @@ Continuing to evolve the framework toward:
 
 ## 💻 Expertise Highlights
 
-- 🧑‍💻 **Quality Engineering:** 13+ years of experience in Software Testing, Test Automation and Quality Engineering.
+- 🧑‍💻 **Quality Engineering:** 15+ years of experience in Software Testing, Test Automation and Quality Engineering.
 
 - 🎭 **Modern Test Automation:** Playwright, TypeScript, JavaScript, Selenium WebDriver, Cucumber BDD, TestNG and Page Object Model.
 
