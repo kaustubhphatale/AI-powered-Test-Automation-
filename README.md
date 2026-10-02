@@ -46,9 +46,6 @@ The goal is to move beyond traditional automation and answer:
 - 🤖 AI / LLM / Agent Testing
 - 🚦 Configurable PASS / REVIEW / BLOCK Quality Gates
 
-### ⭐ Q-Gate AI
-
-https://github.com/ankit19apr/q-gate-ai
 
 ### 🤖 AI QA Bug Triage Automation
 
@@ -62,9 +59,6 @@ An n8n-based QA workflow for automated bug ingestion, structured triage, duplica
 - Mock Jira defect creation
 - Postman-based API validation
 - AI Agent / LLM integration foundation
-
-🔗 https://github.com/ankit19apr/ai-qa-bug-triage-n8n
-
 ---
 
 ## 🚀 Future Enhancements
@@ -160,7 +154,6 @@ Current focus areas:
 
 All of my projects are available at:
 
-🔗 https://github.com/ankit19apr/
 
 ### ⭐ Featured Project
 
@@ -168,7 +161,7 @@ All of my projects are available at:
 
 AI-Powered Quality Engineering & Release Intelligence Platform
 
-🔗 https://github.com/ankit19apr/q-gate-ai
+[to be added]
 
 ---
 
@@ -180,22 +173,8 @@ AI-Powered Quality Engineering & Release Intelligence Platform
 
 ## 📫 How to Reach Me
 
-**Email:** ________@gmail.com
-
 ---
-
-<h3 align="left">Connect with me:</h3>
-
-<p align="left">
-<a href="https://linkedin.com/in/ankit19apr" target="_blank">
-<img align="center"
-src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
-alt="ankit19apr"
-height="30"
-width="40" />
-</a>
-</p>
-
+Email : kaustubh.phatale@gmail.com
 ---
 
 <h3 align="left">Technical Skills</h3>
@@ -332,34 +311,6 @@ alt="sql-server"
 width="40"
 height="40"/>
 </a>
-
-</p>
-
----
-
-## 📊 GitHub Statistics
-
-<p align="center">
-
-<img
-src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ankit19apr&theme=github"
-alt="GitHub Profile Summary"
-width="100%"
-/>
-
-</p>
-
-<p align="center">
-
-<img
-src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ankit19apr&theme=github"
-alt="GitHub Statistics"
-/>
-
-<img
-src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ankit19apr&theme=github"
-alt="Top Languages"
-/>
 
 </p>
 
