@@ -1,19 +1,19 @@
 #<h1 align="center">Hi 👋, I'm Kaustubh Phatale</h1>
 
 <h3 align="center">
-Staff Engineer | Test Architect | Quality Engineering | Test Automation | AI & LLM Testing | n8n AI Automation
+Test Architect | Quality Engineering | Test Automation | AI & LLM Testing | n8n AI Automation
 </h3>
 
 <p align="center">
-15+ Years of Experience in Software Testing, Test Automation & Quality Engineering
+15+ Years of Experience in Software Testing, Test Automation , Framework designing & Quality Engineering
 </p>
 
 <h3 align="center">
-⚡ Passionate Learner | Automation Architect | AI Testing Enthusiast
+⚡ Passionate Learner | Test Automation Architect | AI Enthusiast
 </h3>
 
 <p align="center">
-Building scalable automation frameworks and intelligent quality engineering solutions using Playwright, TypeScript, Java, AI/LLM testing, and workflow automation.
+Building scalable automation frameworks and quality engineering solutions using Playwright, TypeScript, Java, AI/LLM testing, and workflow automation.
 </p>
 
 ---
