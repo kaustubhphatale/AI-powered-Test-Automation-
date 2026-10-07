@@ -47,7 +47,7 @@ The goal is to move beyond traditional automation and answer:
 - 🚦 Configurable PASS / REVIEW / BLOCK Quality Gates
 
 
-### 🤖 AI QA Bug Triage Automation
+### 🤖 AI Enabled Bug Triage Automation
 
 An n8n-based QA workflow for automated bug ingestion, structured triage, duplicate detection, conditional routing, and Jira-ready defect processing.
 
@@ -148,22 +148,6 @@ Current focus areas:
 - 🔗 API and webhook-based QA integrations
 - 🚦 Quality gates and release intelligence
 
----
-
-## 👨‍💻 Projects
-
-All of my projects are available at:
-
-
-### ⭐ Featured Project
-
-**Q-Gate AI**
-
-AI-Powered Quality Engineering & Release Intelligence Platform
-
-[to be added]
-
----
 
 ## 💬 Ask Me About
 
